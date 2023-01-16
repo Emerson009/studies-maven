@@ -20,4 +20,12 @@
 			<version>1.4.20</version>
 		</dependency>
 	</dependencies>
+	
+	<repositories>
+		<repository>
+			<id>spring-repo</id>
+			<url>https://repo.spring.io/release</url>
+		</repository>
+	</repositories>
+	
 </project>
